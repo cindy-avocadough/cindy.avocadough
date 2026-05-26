@@ -1,41 +1,40 @@
-# =============================================================================
-# linkyee — Site Configuration
+# ==============================================================================
+# linkkee – Site Configuration
 #
 # This file is rendered through Liquid: every {{ ... }} below is evaluated
-# at build time. Plugin output lives under `vars.<PluginName>` — see
+# at build time. Plugin output lives under `vars.<PluginName>` – see
 # `plugins/README.md` for the full plugin developer wiki.
-# =============================================================================
+# ==============================================================================
 
-# 網站配置  
+# 網站配置
 
-# 主題名稱，對應至目錄：./theme/xxxx  
-theme: default  
+# 主題名稱，對應至目錄：./theme/xxxx
+theme: default
 
-# HTML 語言設定  
-lang: "en"  
+# HTML 語言設定
+lang: "en"
 
-# HTML 標題  
-title: "Cindy 欣地｜酸種小天地"  
+# HTML 標題
+title: "Cindy 欣地 | 酸種日常"
 
-# 頭像圖片路徑  
-avatar: "./images/profile.jpeg"  
+# 頭像圖片路徑
+avatar: "./images/profile.jpeg"
 
-# 標語區塊文字  
-tagline: >-  
-    酸種發酵小日常🥖  
-    
-# 連結列表  
-# icon：使用 Font Awesome 圖示 (https://fontawesome.com/search?o=r&m=free)  
-# text：顯示在連結上的文字  
-# title：連結的標題  
-# url：連結的網址  
-# alt：替代文字（無障礙使用）  
-# target：`_blank` 在新頁籤打開，`_self` 在同頁面打開  
+# 標語區塊文字
+tagline: >-
+  酸種發酵小日常🥖
 
-links:  
-  - link:  
-      icon: "<i class="fa-brands fa-amazon"></i>"  
-      url: "https://a.co/d/0cvaqTjA"  
-      alt: "酸種愛用好物｜Amazon"  
-      title: "酸種愛用好物｜Amazon"  
-      target: "_blank"  
+# 連結列表
+# icon: 使用 Font Awesome 圖示 (https://fontawesome.com/search?o=r&m=free)
+# text : 顯示在連結上的文字
+# title : 連結的標題
+# url : 連結的網址
+# alt : 替代文字 (無障礙使用)
+# target: `_blank` 在新頁籤打開, `_self` 在同頁面打開
+
+links:
+  - icon: "<i class=\"fa-brands fa-amazon\"></i>"
+    url: "https://a.co/d/0cvaqtJA"
+    alt: "酸種愛用好物 | Amazon"
+    title: "酸種愛用好物 | Amazon"
+    target: "_blank"
