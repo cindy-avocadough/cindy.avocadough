@@ -1,5 +1,5 @@
 # ==============================================================================
-# linkkee – Site Configuration
+# linkyee – Site Configuration
 #
 # This file is rendered through Liquid: every {{ ... }} below is evaluated
 # at build time. Plugin output lives under `vars.<PluginName>` – see
@@ -20,21 +20,15 @@ title: "Cindy 欣地 | 酸種日常"
 # 頭像圖片路徑
 avatar: "./images/profile.jpeg"
 
-# 標語區塊文字
+# 標語區塊文字 (注意：下面這行的縮排必須保留！)
 tagline: >-
   酸種發酵小日常🥖
 
 # 連結列表
-# icon: 使用 Font Awesome 圖示 (https://fontawesome.com/search?o=r&m=free)
-# text : 顯示在連結上的文字
-# title : 連結的標題
-# url : 連結的網址
-# alt : 替代文字 (無障礙使用)
-# target: `_blank` 在新頁籤打開, `_self` 在同頁面打開
-
 links:
-  - icon: "<i class=\"fa-brands fa-amazon\"></i>"
-    url: "https://a.co/d/0cvaqtJA"
-    alt: "酸種愛用好物 | Amazon"
-    title: "酸種愛用好物 | Amazon"
-    target: "_blank"
+  - link:
+      icon: "fa-brands fa-amazon"
+      url: "https://a.co/d/0cvaqtJA"
+      alt: "酸種愛用好物 | Amazon"
+      title: "酸種愛用好物 | Amazon"
+      target: "_blank"
