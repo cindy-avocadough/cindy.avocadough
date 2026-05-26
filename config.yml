@@ -17,18 +17,21 @@ lang: "en"
 # HTML 標題
 title: "Cindy 欣地 | 酸種日常"
 
+# 名稱區塊文字  
+name: "Cindy 欣地 | 酸種日常"  
+
 # 頭像圖片路徑
 avatar: "./images/profile.jpeg"
 
 # 標語區塊文字 (注意：下面這行的縮排必須保留！)
 tagline: >-
-  酸種發酵小日常🥖
+  酸種發酵小日常🥖 50顆酸種挑戰進行中✨
 
 # 連結列表
 links:
   - link:
       icon: "fa-brands fa-amazon"
-      text: "酸種愛用好物 | Amazon <span class='link-button-text'>"
+      text: "酸種愛用好物 | Amazon"
       url: "https://a.co/d/0cvaqtJA"
       alt: "酸種愛用好物 | Amazon"
       title: "酸種愛用好物 | Amazon"
