@@ -9,16 +9,16 @@
 # 網站配置
 
 # 主題名稱，對應至目錄：./theme/xxxx
-theme: default
+theme: paper-card
 
 # HTML 語言設定
 lang: "en"
 
 # HTML 標題
-title: "Cindy 欣地 | 酸種日常"
+title: "Cindy 欣地 | 酸種小天地"
 
 # 名稱區塊文字  
-name: "Cindy 欣地 | 酸種日常"  
+name: "Cindy 欣地 | 酸種小天地"  
 
 # 頭像圖片路徑
 avatar: "./images/profile.jpeg"
@@ -32,7 +32,7 @@ links:
   - link:
       icon: "fa-brands fa-amazon"
       text: "酸種愛用好物 | Amazon"
-      url: "https://a.co/d/0cvaqtJA"
+      url: "https://a.co/d/077FqPmu"
       alt: "酸種愛用好物 | Amazon"
       title: "酸種愛用好物 | Amazon"
       target: "_blank"
