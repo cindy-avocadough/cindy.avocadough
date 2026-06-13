@@ -37,6 +37,13 @@ links:
       title: "午茶夫人限時團購 6/7-6/17"
       target: "_blank"
   - link:
+      icon: "fa-solid fa-bread-slice"
+      text: "辣媽線上課程專屬折扣碼cindy200"
+      url: "https://hi.sat.cool/D2H05"
+      alt: "辣媽線上課程專屬折扣碼cindy200"
+      title: "辣媽線上課程專屬折扣碼cindy200"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-amazon"
       text: "酸種愛用好物 | Amazon"
       url: "https://a.co/d/077FqPmu"
